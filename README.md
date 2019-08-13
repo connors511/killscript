@@ -4,9 +4,9 @@ Script that makes sure to validate the configuration you set up. Set up your own
 `killscript.py` is the main file to be run.
 
 The script takes 3 argument (must be written in order):
- 1. argument being the check-config
+ 1. argument being the check-config path
  2. argument being the success script to be run
- 3. argument being the failutre script to be run
+ 3. argument being the failure script to be run
  
 Example 
 ```
