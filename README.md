@@ -1,4 +1,4 @@
-# killswitch
+# Killscript
 
 `killscript.py` is the main file to be run.
 
