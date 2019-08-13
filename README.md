@@ -1,4 +1,5 @@
 # Killscript
+Script that makes sure to validate the configuration you set up. Set up your own validation rules and run scripts if validation is successful or not.
 
 `killscript.py` is the main file to be run.
 
