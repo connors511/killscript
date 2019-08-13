@@ -50,7 +50,7 @@ def check(path):
                     if (currentIp == expectedIp):
                         checkSuccessCount += 1
 
-                elif (action == "disk"):
+                elif (action == "file"):
                     currentFileHash = getFileHash(split[1]).lower()
                     expectedFileHash = split[2].lower()
                     if (currentFileHash == expectedFileHash):
