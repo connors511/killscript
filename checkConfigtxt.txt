@@ -1,3 +1,0 @@
-minchecks:2
-ip:10.0.0.132
-file:test.txt:4e08b43ed4cb5250e5c503bb876e5180fd0dcfe1581ae488c374aa1e328e0b63
