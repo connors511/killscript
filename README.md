@@ -36,7 +36,7 @@ minchecks:1
 ```
 
 ### ip
-ip only takes one value being the expected ip.
+ip only takes one value being the expected ip (ipv4).
 
 Example
 ```
@@ -46,9 +46,9 @@ ip:192.168.0.10
 ### file
 file takes one value and one extra value.
 
-The value being the file path.
+The value being the file path. Final destination must be a file.
 
-The extra value being the expected file hash.
+The extra value being the expected sha256 checksum of the file.
 
 Example
 ```
